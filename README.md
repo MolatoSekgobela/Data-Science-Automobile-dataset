@@ -20,3 +20,11 @@ My porject includes:
 1. jupyter notebook
 2. Dataset used
 3. Report on my findings 
+
+
+Usage:
+
+1. download the dataset and the notebook into your working directory
+2. open the notebook in jupyter to see the code used to analyse the dataset.
+3. ensure python3 is installed ( follow link  on how to install python https://phoenixnap.com/kb/how-to-install-python-3-windows)
+4. use the report for better understanding of the findings after analysis
