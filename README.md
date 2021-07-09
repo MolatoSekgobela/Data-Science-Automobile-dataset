@@ -1,4 +1,4 @@
-# Data-Science-Capstone-Project-2
+# Data-Science-A
 
 The  aim of the project was to design EDA and data visualisation using the automobile dataset
 
