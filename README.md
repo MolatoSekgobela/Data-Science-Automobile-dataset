@@ -1,4 +1,5 @@
-# Data-Science-A
+# Data-Science-Automobile-dataset
+
 
 The  aim of the project was to design EDA and data visualisation using the automobile dataset
 
